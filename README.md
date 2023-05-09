@@ -29,4 +29,5 @@ We have launched PEV as freeware on PG's official website, you can use the trial
 
 ## 5. About the Activation of the Enterprise Edition
 Check version: select pev.pev_register_info(); (There is your exclusive registration code, and if you have any needs, you can contact us to activate it)
+
 Registration code activation: select pev.pev_register('......');
